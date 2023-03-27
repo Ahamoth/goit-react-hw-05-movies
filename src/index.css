@@ -1,4 +1,6 @@
-@import-normalize; /* bring in normalize.css styles */
+@import-normalize;
+/* bring in normalize.css styles */
+@import './globalStyles/reset.css';
 
 body {
   margin: 0;
